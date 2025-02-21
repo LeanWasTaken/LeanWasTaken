@@ -1,5 +1,5 @@
 <h1 align="center">Hello there 👋, I'm Krists</h1>
-<h3 align="center">A CS Student/Junior programmer from Latvia</h3>
+<h3 align="center">Junior Web programmer from Latvia</h3>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=leanwastaken&label=Profile%20views&color=0e75b6&style=flat" alt="leanwastaken" />
 </p>
