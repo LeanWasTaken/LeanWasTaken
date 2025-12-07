@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://leanwastaken.lv"><img alt="Website" src="https://img.shields.io/badge/website-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"></a>
+    <a href="https://krists.lol"><img alt="Website" src="https://img.shields.io/badge/website-00DC82?style=for-the-badge&logo=nuxt&logoColor=white"></a>
     <a href="https://discord.com/users/401116245857927199"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
 
