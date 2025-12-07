@@ -18,4 +18,4 @@ I'm a developer and electronics hobbyist from Latvia primarily working on web ap
 
 ## 📈 GitHub Stats
 
-![Krists's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeanWasTaken&show_icons=true&theme=radical)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/LeanWasTaken/stats)
