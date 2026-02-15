@@ -14,8 +14,3 @@ I'm a developer and electronics hobbyist from Latvia primarily working on web ap
 - **Backend:** Node.js, Express, PostgreSQL, Redis
 - **IoT/Embedded:** PlatformIO, ESP32, RPi RP2040, CAN Bus (Automotive)
 - **Tools:** Git, Docker, VS Code
-
-
-## 📈 GitHub Stats
-
-![Github Stats](https://greptile-stats.vercel.app/api/widget/LeanWasTaken/stats)
